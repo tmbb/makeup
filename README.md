@@ -1,4 +1,5 @@
 # Makeup
+[![Build Status](https://travis-ci.org/tmbb/makeup.svg?branch=master)](https://travis-ci.org/tmbb/makeup)
 
 [![Module Version](https://img.shields.io/hexpm/v/makeup.svg)](https://hex.pm/packages/makeup)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/makeup/)
